@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { formatDuration } from "../utils/FormatDuration";
+import { formatDuration } from "../utils/formatDuration";
 import { formatTimeAgoIntl } from "../utils/formatTimeAgo";
 import { formatViews } from "../utils/formatViews";
 
